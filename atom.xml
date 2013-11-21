@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[SQC Blog]]></title>
+  <link href="http://sunqichao.github.io/atom.xml" rel="self"/>
+  <link href="http://sunqichao.github.io/"/>
+  <updated>2013-11-21T23:36:47+08:00</updated>
+  <id>http://sunqichao.github.io/</id>
+  <author>
+    <name><![CDATA[Sun Qichao]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
