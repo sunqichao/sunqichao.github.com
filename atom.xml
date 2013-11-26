@@ -4,7 +4,7 @@
   <title><![CDATA[SQC Blog]]></title>
   <link href="http://sunqichao.github.io/atom.xml" rel="self"/>
   <link href="http://sunqichao.github.io/"/>
-  <updated>2013-11-26T19:15:30+08:00</updated>
+  <updated>2013-11-26T22:36:33+08:00</updated>
   <id>http://sunqichao.github.io/</id>
   <author>
     <name><![CDATA[Sun Qichao]]></name>
@@ -14,19 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Wo Kao]]></title>
-    <link href="http://sunqichao.github.io/blog/2013/11/26/wo-kao/"/>
-    <updated>2013-11-26T19:13:58+08:00</updated>
-    <id>http://sunqichao.github.io/blog/2013/11/26/wo-kao</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Another Post]]></title>
-    <link href="http://sunqichao.github.io/blog/2013/11/26/another-post/"/>
-    <updated>2013-11-26T18:52:24+08:00</updated>
-    <id>http://sunqichao.github.io/blog/2013/11/26/another-post</id>
+    <title type="html"><![CDATA[学习cocos2d的第一天]]></title>
+    <link href="http://sunqichao.github.io/blog/2013/11/26/xue-xi-cocos2dde-di-%5B%3F%5D-tian/"/>
+    <updated>2013-11-26T22:36:21+08:00</updated>
+    <id>http://sunqichao.github.io/blog/2013/11/26/xue-xi-cocos2dde-di-[?]-tian</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
